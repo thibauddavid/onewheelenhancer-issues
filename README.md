@@ -7,6 +7,7 @@ Upon installing, it'll patch FutureMotion's official app to support background a
 
   - Live cells voltage tracking
   - Helps spotting weaks cells (higher cells are displayed in green, cells weaker by 0.03V will be in green, weakers than 0.06V in red)
+  - Battery percentage calculable using voltage instead of BMS value (Useful if using an XXR-mod for example)
   - Speed alert settable. You'll receive a push notification along with an alarm ringing from your phone if you exceed this max speed
   - Displays original cells type delivered with your BMS. If you replaced your battery pack with another cells type, a wrong information will be displayed.
 
