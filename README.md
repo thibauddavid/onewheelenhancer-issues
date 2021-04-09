@@ -1,3 +1,12 @@
+
+# Cydia users
+
+```diff
+- ⚠️ Karen's repo is needed, as tweak relies on AppSync Unified to be able to allow app to play
+- background audio for the speed limit alert feature.
+```
+[🚨 Before installing this tweak, tap on this link to add Appsync's repo repo](https://cydia.akemi.ai/add.php)
+
 # OnewheelEnhancer
 
 OnewheelEnhancer is an iOS tweak runnable on jailbroken devices. 
